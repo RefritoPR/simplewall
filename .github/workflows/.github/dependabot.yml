@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "nuget" # Change this to the package manager your project uses
+    directory: "/" # Location of your project files
+    schedule:
+      interval: "daily" # Options: daily, weekly, monthly
