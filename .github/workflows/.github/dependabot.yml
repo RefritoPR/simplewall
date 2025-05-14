@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: "CMake" # Change this to the package manager your project uses
+  - package-ecosystem: "C++" # Change this to the package manager your project uses
     directory: "/" # Location of your project files
     schedule:
       interval: "daily" # Options: daily, weekly, monthly
